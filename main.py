@@ -146,7 +146,7 @@ async def cats_random_inline_button_callback(client: Client, query: CallbackQuer
     )
 
 
-change_city_text = f"Меняем город!\n\nНапиши в ответ на это сообщение название своего города, а я его запомню!"
+change_city_text = f"Меняем город!\n\nНапиши в ответ на это сообщение название своего города, а я его сразу запомню!"
 
 
 
